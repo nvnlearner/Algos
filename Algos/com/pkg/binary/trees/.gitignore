@@ -10,6 +10,7 @@
 /InOrderSuccessor.class
 /InOrderSuccessors.class
 /KeysInRangeBST.class
+/LevelofNode.class
 /LowestCommonAncestor.class
 /MaxMinElement.class
 /MaximumWidthBT.class
@@ -23,5 +24,3 @@
 /SumTree.class
 /TreeNode.class
 /TreeOperations.class
-/DiameterTree.class
-/KUnBalancedBT.class
